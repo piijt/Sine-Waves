@@ -1,0 +1,17 @@
+{
+  "name": "sinewaves",
+  "version": "1.0.0",
+  "description": "SineWaves ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Sine",
+    "Waves",
+    "Using",
+    "Canvas"
+  ],
+  "author": "Peter Jespersen",
+  "license": "ISC"
+}
